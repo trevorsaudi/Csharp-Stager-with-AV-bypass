@@ -1,0 +1,15 @@
+C:\Users\saudi\Desktop\Programs\Csharp-Stager-with-AV-bypass\Shellencrypt\bin\Debug\net7.0\Shellencrypt.exe
+C:\Users\saudi\Desktop\Programs\Csharp-Stager-with-AV-bypass\Shellencrypt\bin\Debug\net7.0\Shellencrypt.deps.json
+C:\Users\saudi\Desktop\Programs\Csharp-Stager-with-AV-bypass\Shellencrypt\bin\Debug\net7.0\Shellencrypt.runtimeconfig.json
+C:\Users\saudi\Desktop\Programs\Csharp-Stager-with-AV-bypass\Shellencrypt\bin\Debug\net7.0\Shellencrypt.dll
+C:\Users\saudi\Desktop\Programs\Csharp-Stager-with-AV-bypass\Shellencrypt\bin\Debug\net7.0\Shellencrypt.pdb
+C:\Users\saudi\Desktop\Programs\Csharp-Stager-with-AV-bypass\Shellencrypt\obj\Debug\net7.0\Shellencrypt.csproj.AssemblyReference.cache
+C:\Users\saudi\Desktop\Programs\Csharp-Stager-with-AV-bypass\Shellencrypt\obj\Debug\net7.0\Shellencrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saudi\Desktop\Programs\Csharp-Stager-with-AV-bypass\Shellencrypt\obj\Debug\net7.0\Shellencrypt.AssemblyInfoInputs.cache
+C:\Users\saudi\Desktop\Programs\Csharp-Stager-with-AV-bypass\Shellencrypt\obj\Debug\net7.0\Shellencrypt.AssemblyInfo.cs
+C:\Users\saudi\Desktop\Programs\Csharp-Stager-with-AV-bypass\Shellencrypt\obj\Debug\net7.0\Shellencrypt.csproj.CoreCompileInputs.cache
+C:\Users\saudi\Desktop\Programs\Csharp-Stager-with-AV-bypass\Shellencrypt\obj\Debug\net7.0\Shellencrypt.dll
+C:\Users\saudi\Desktop\Programs\Csharp-Stager-with-AV-bypass\Shellencrypt\obj\Debug\net7.0\refint\Shellencrypt.dll
+C:\Users\saudi\Desktop\Programs\Csharp-Stager-with-AV-bypass\Shellencrypt\obj\Debug\net7.0\Shellencrypt.pdb
+C:\Users\saudi\Desktop\Programs\Csharp-Stager-with-AV-bypass\Shellencrypt\obj\Debug\net7.0\Shellencrypt.genruntimeconfig.cache
+C:\Users\saudi\Desktop\Programs\Csharp-Stager-with-AV-bypass\Shellencrypt\obj\Debug\net7.0\ref\Shellencrypt.dll
